@@ -4,31 +4,39 @@
 
 ## 👨‍💻 About Me
 
-- 💻 I'm skilled in **Java**, **C#**, and have some experience with **Python**.
-- 🌱 Currently, I'm working on projects in **ASP.NET MVC**, **Java**, and **Kotlin for Android Development**.
-- 🎯 My goal is to become a proficient **Software/Web Developer** and gain experience in the tech industry through internships or entry-level roles.
-- 📚 I'm motivated to grow my skills, especially in backend and full-stack development.
+- 💻 I'm a passionate software developer skilled in **Java**, **C#**, and have some experience with **Python**.
+- 🌱 I specialize in **front-end development** and love creating visually engaging, user-friendly interfaces that deliver great user experiences. My work focuses on **HTML**, **CSS**, **JavaScript**, and exploring frameworks like **React** to build responsive, dynamic websites.
+- 🔧 While I have experience in **back-end development**, I find more joy in shaping the front-end of applications, where design, user interaction, and creativity come to life.
+- 🎯 My ultimate goal is to become a well-rounded **front-end web developer** and work in a collaborative environment where I can learn from others and contribute to creating functional, beautiful digital solutions.
+- 📚 I'm continuously working to expand my skills in **UI/UX design** and **JavaScript frameworks** to create modern, responsive websites that offer seamless user interactions.
 
 ## 🛠 Technical Skills
 
 - **Languages:** Java, C#, Python (beginner level)
-- **Frontend:** HTML, CSS, JavaScript, some React
+- **Frontend:** HTML, CSS, JavaScript, React, some experience with responsive design and CSS frameworks like Bootstrap
 - **Backend:** ASP.NET MVC, Java Spring Boot (learning)
 - **Mobile Development:** Kotlin (Android)
-- **Tools & Technologies:** Git, Visual Studio, Android Studio, SQL, MySQL
+- **Version Control:** Git, GitHub (for version control and collaboration)
+- **Code Editor:** Visual Studio Code (VS Code)
+- **Database Management:** SQL, MySQL (basic knowledge)
+- **Tools & Technologies:** Git, Visual Studio, Android Studio, Firebase, REST APIs
+- **UI/UX:** Experience in designing intuitive and engaging user interfaces with a focus on user experience
 
 ## 🔧 Projects
 
 Here are a few projects that showcase my learning journey and technical abilities:
 
-### 📱 [Loan Management Android App](https://github.com/FranklynPedro/loan-management-android)
-A simple Android application built in **Kotlin** for managing loans, including features for adding, retrieving, and deleting loans with REST API integration.
-
-### 🌐 [Mugged: Personalized Gifts Web App](https://github.com/FranklynPedro/mugged)
-A web application for a customizable gift shop, developed using **ASP.NET MVC** with a focus on UI/UX design using **Uizard**. The color scheme was carefully chosen to create a warm, engaging user experience.
+### 🐾 [Puppy Paradise - Non-Profit Animal Rescue Website](https://github.com/FranklynPedro/ST10118718-WEDE5020-POE)
+A fictional non-profit website dedicated to rescuing, rehabilitating, and rehoming abandoned pets. The site guides users through the adoption process and emphasizes responsible pet care. It includes sections like **About Us**, **Adopt A Pet**, **Gallery**, and **Contact Us**, with a focus on creating a warm, welcoming experience for potential pet adopters.
 
 ### 🐦 [Birdwatching Open-Source App](https://github.com/FranklynPedro/birdwatching)
 An open-source birdwatching app where users can log bird sightings and track locations. This project allowed me to work with **location APIs** and hone my **Java** skills.
+
+### ☕ [Mugged: Personalized Gifts Web App](https://github.com/FranklynPedro/mugged)
+A web application for a customizable gift shop, developed using **ASP.NET MVC** with a focus on UI/UX design using **Uizard**. The color scheme was carefully chosen to create a warm, engaging user experience.
+
+### 📱 [Loan Management Android App](https://github.com/FranklynPedro/loan-management-android)
+A simple Android application built in **Kotlin** for managing loans, including features for adding, retrieving, and deleting loans with REST API integration.
 
 ## 📈 Goals
 
