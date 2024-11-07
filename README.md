@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @FranklynPedro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋 I'm Franklyn
 
-<!---
-FranklynPedro/FranklynPedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a final-year student pursuing a **Diploma in Information Technology in Software Development**. Passionate about turning ideas into efficient, scalable software solutions, I'm actively building my technical skills and seeking opportunities to kickstart my career as a software or web developer.
+
+## 👨‍💻 About Me
+
+- 💻 I'm skilled in **Java**, **C#**, and have some experience with **Python**.
+- 🌱 Currently, I'm working on projects in **ASP.NET MVC**, **Java**, and **Kotlin for Android Development**.
+- 🎯 My goal is to become a proficient **Software/Web Developer** and gain experience in the tech industry through internships or entry-level roles.
+- 📚 I'm motivated to grow my skills, especially in backend and full-stack development.
+
+## 🛠 Technical Skills
+
+- **Languages:** Java, C#, Python (beginner level)
+- **Frontend:** HTML, CSS, JavaScript, some React
+- **Backend:** ASP.NET MVC, Java Spring Boot (learning)
+- **Mobile Development:** Kotlin (Android)
+- **Tools & Technologies:** Git, Visual Studio, Android Studio, SQL, MySQL
+
+## 🔧 Projects
+
+Here are a few projects that showcase my learning journey and technical abilities:
+
+### 📱 [Loan Management Android App](https://github.com/FranklynPedro/loan-management-android)
+A simple Android application built in **Kotlin** for managing loans, including features for adding, retrieving, and deleting loans with REST API integration.
+
+### 🌐 [Mugged: Personalized Gifts Web App](https://github.com/FranklynPedro/mugged)
+A web application for a customizable gift shop, developed using **ASP.NET MVC** with a focus on UI/UX design using **Uizard**. The color scheme was carefully chosen to create a warm, engaging user experience.
+
+### 🐦 [Birdwatching Open-Source App](https://github.com/FranklynPedro/birdwatching)
+An open-source birdwatching app where users can log bird sightings and track locations. This project allowed me to work with **location APIs** and hone my **Java** skills.
+
+## 📈 Goals
+
+- 🚀 Build a personal portfolio website to showcase my work.
+- 🤝 Gain experience through internships or collaborative projects.
+- 📖 Continue learning about cloud technologies and microservices.
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/franklyn-pedro-250ba1268/)
+- **GitHub:** [github.com/FranklynPedro](https://github.com/FranklynPedro)
+- **Email:** st10118718@vcconnect.edu.za
+
+Thanks for visiting! I'm always open to connecting and exploring new opportunities. Let's collaborate or chat about software development, tech, and career growth!
