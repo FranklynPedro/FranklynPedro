@@ -6,7 +6,7 @@
 
 - 💻 I'm a passionate software developer skilled in **Java**, **C#**, and have some experience with **Python**.
 - 🌱 I specialize in **front-end development** and love creating visually engaging, user-friendly interfaces that deliver great user experiences. My work focuses on **HTML**, **CSS**, **JavaScript**, and exploring frameworks like **React** to build responsive, dynamic websites.
-- 🔧 While I have experience in **back-end development**, I find more joy in shaping the front-end of applications, where design, user interaction, and creativity come to life.
+- 🔧 While I have experience in **back-end development**, I find more joy in shaping the front end of applications, where design, user interaction, and creativity come to life.
 - 🎯 My ultimate goal is to become a well-rounded **front-end web developer** and work in a collaborative environment where I can learn from others and contribute to creating functional, beautiful digital solutions.
 - 📚 I'm continuously working to expand my skills in **UI/UX design** and **JavaScript frameworks** to create modern, responsive websites that offer seamless user interactions.
 
@@ -26,6 +26,12 @@
 
 Here are a few projects that showcase my learning journey and technical abilities:
 
+### 💰 [Budget Calculator - Personal Finance Web App](https://franklynpedro.github.io/BudgetCalculatorSPA/)
+A single-page application (SPA) built as a personal finance tool to help users manage their budget. Users can input income and expenses, view a summary, and visualize their budget distribution with a pie chart. It includes a light/dark mode toggle for a personalized user experience.
+- **Technologies**: HTML, CSS, JavaScript, Chart.js
+- **Key Features**: Income and expense tracking, real-time budget summary, pie chart visualization, theme toggle
+- **Demo**: [Live Demo on GitHub Pages](https://franklynpedro.github.io/BudgetCalculatorSPA/)
+
 ### 🐾 [Puppy Paradise - Non-Profit Animal Rescue Website](https://github.com/FranklynPedro/ST10118718-WEDE5020-POE)
 A fictional non-profit website dedicated to rescuing, rehabilitating, and rehoming abandoned pets. The site guides users through the adoption process and emphasizes responsible pet care. It includes sections like **About Us**, **Adopt A Pet**, **Gallery**, and **Contact Us**, with a focus on creating a warm, welcoming experience for potential pet adopters.
 
@@ -34,9 +40,6 @@ An open-source birdwatching app where users can log bird sightings and track loc
 
 ### ☕ [Mugged: Personalized Gifts Web App](https://github.com/FranklynPedro/mugged)
 A web application for a customizable gift shop, developed using **ASP.NET MVC** with a focus on UI/UX design using **Uizard**. The color scheme was carefully chosen to create a warm, engaging user experience.
-
-### 📱 [Loan Management Android App](https://github.com/FranklynPedro/loan-management-android)
-A simple Android application built in **Kotlin** for managing loans, including features for adding, retrieving, and deleting loans with REST API integration.
 
 ## 📈 Goals
 
