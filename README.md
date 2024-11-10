@@ -32,6 +32,12 @@ A single-page application (SPA) built as a personal finance tool to help users m
 - **Key Features**: Income and expense tracking, real-time budget summary, pie chart visualization, theme toggle
 - **Demo**: [Live Demo on GitHub Pages](https://franklynpedro.github.io/BudgetCalculatorSPA/)
 
+### 🖥️ [GitHub Profile Viewer SPA](https://github.com/FranklynPedro/GithubProfileViewerSPA)
+A single-page application (SPA) that allows users to view GitHub profiles and repositories by fetching data from the GitHub API. The app features a responsive design, includes a theme toggle for light/dark modes, and presents user data in an organized, visually appealing layout.
+- **Technologies**: HTML, CSS, JavaScript, GitHub API
+- **Key Features**: GitHub profile and repository viewing, light/dark mode toggle, responsive design
+- **Demo**: [Live Demo on GitHub Pages](https://franklynpedro.github.io/GithubProfileViewerSPA/)
+
 ### 🐾 [Puppy Paradise - Non-Profit Animal Rescue Website](https://github.com/FranklynPedro/ST10118718-WEDE5020-POE)
 A fictional non-profit website dedicated to rescuing, rehabilitating, and rehoming abandoned pets. The site guides users through the adoption process and emphasizes responsible pet care. It includes sections like **About Us**, **Adopt A Pet**, **Gallery**, and **Contact Us**, with a focus on creating a warm, welcoming experience for potential pet adopters.
 
