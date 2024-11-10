@@ -63,7 +63,7 @@ A customizable gift shop web app, built with **ASP.NET MVC** and a focus on **UI
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Franklyn Pedro LinkedIn](https://www.linkedin.com/in/franklyn-pedro-250ba1268/)
+- **LinkedIn**: [linkedin.com/in/franklyn-pedro-250ba1268/](https://www.linkedin.com/in/franklyn-pedro-250ba1268/)
 - **GitHub**: [github.com/FranklynPedro](https://github.com/FranklynPedro)
 - **Email**: st10118718@vcconnect.edu.za
 
