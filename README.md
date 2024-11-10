@@ -1,62 +1,70 @@
 # Hi there! 👋 I'm Franklyn
 
-🎓 I'm a final-year student pursuing a **Diploma in Information Technology in Software Development**. Passionate about turning ideas into efficient, scalable software solutions, I'm actively building my technical skills and seeking opportunities to kickstart my career as a software or web developer.
+You have finally discovered my GitHub profile!
 
 ## 👨‍💻 About Me
 
-- 💻 I'm a passionate software developer skilled in **Java**, **C#**, and have some experience with **Python**.
-- 🌱 I specialize in **front-end development** and love creating visually engaging, user-friendly interfaces that deliver great user experiences. My work focuses on **HTML**, **CSS**, **JavaScript**, and exploring frameworks like **React** to build responsive, dynamic websites.
-- 🔧 While I have experience in **back-end development**, I find more joy in shaping the front end of applications, where design, user interaction, and creativity come to life.
-- 🎯 My ultimate goal is to become a well-rounded **front-end web developer** and work in a collaborative environment where I can learn from others and contribute to creating functional, beautiful digital solutions.
-- 📚 I'm continuously working to expand my skills in **UI/UX design** and **JavaScript frameworks** to create modern, responsive websites that offer seamless user interactions.
+🎓 I'm a **final-year student** pursuing a **Diploma in Information Technology in Software Development**. I'm passionate about creating efficient and scalable software solutions and am actively working to expand my technical skill set. My goal is to kickstart my career as a **software or web developer** and contribute to impactful projects.
+
+- 💻 **Programming Languages**: I'm skilled in **Java**, **C#**, and have beginner-level experience with **Python**.
+- 🌱 **Front-End Focus**: I specialize in **front-end development** and enjoy creating **user-friendly, visually appealing interfaces**. I work with **HTML**, **CSS**, **JavaScript**, and have experience with **React** to build responsive websites.
+- 🔧 **Back-End Experience**: Although I have experience with **back-end development**, I thrive on the creative aspects of **front-end** work, where design and user experience come to life.
+- 🎯 **Future Aspirations**: My aim is to become a skilled **front-end web developer**, working in a **collaborative environment** where I can continuously learn and contribute to meaningful digital solutions.
+- 📚 **Continuous Learning**: I'm actively expanding my knowledge in **UI/UX design** and **JavaScript frameworks**, focusing on building modern, responsive websites that provide seamless user experiences.
 
 ## 🛠 Technical Skills
 
-- **Languages:** Java, C#, Python (beginner level)
-- **Frontend:** HTML, CSS, JavaScript, React, some experience with responsive design and CSS frameworks like Bootstrap
-- **Backend:** ASP.NET MVC, Java Spring Boot (learning)
-- **Mobile Development:** Kotlin (Android)
-- **Version Control:** Git, GitHub (for version control and collaboration)
-- **Code Editor:** Visual Studio Code (VS Code)
-- **Database Management:** SQL, MySQL (basic knowledge)
-- **Tools & Technologies:** Git, Visual Studio, Android Studio, Firebase, REST APIs
-- **UI/UX:** Experience in designing intuitive and engaging user interfaces with a focus on user experience
+- **Languages**: Java, C#, Python (beginner)
+- **Front-End**: HTML, CSS, JavaScript, React, responsive design, Bootstrap
+- **Back-End**: ASP.NET MVC, Java Spring Boot (learning)
+- **Mobile Development**: Kotlin (Android)
+- **Version Control**: Git, GitHub
+- **Code Editor**: Visual Studio Code (VS Code)
+- **Database**: SQL, MySQL (basic)
+- **Tools & Technologies**: Git, Visual Studio, Android Studio, Firebase, REST APIs
+- **UI/UX**: Experience in designing intuitive, engaging interfaces with a focus on usability
 
 ## 🔧 Projects
 
-Here are a few projects that showcase my learning journey and technical abilities:
+Here are some projects that highlight my growth as a developer:
 
 ### 💰 [Budget Calculator - Personal Finance Web App](https://franklynpedro.github.io/BudgetCalculatorSPA/)
-A single-page application (SPA) built as a personal finance tool to help users manage their budget. Users can input income and expenses, view a summary, and visualize their budget distribution with a pie chart. It includes a light/dark mode toggle for a personalized user experience.
+A personal finance tool for managing budgets, with a **light/dark mode toggle** and **pie chart visualizations**.
 - **Technologies**: HTML, CSS, JavaScript, Chart.js
-- **Key Features**: Income and expense tracking, real-time budget summary, pie chart visualization, theme toggle
-- **Demo**: [Live Demo on GitHub Pages](https://franklynpedro.github.io/BudgetCalculatorSPA/)
+- **Key Features**: Budget tracking, real-time summary, theme toggle
+- **Demo**: [Live Demo](https://franklynpedro.github.io/BudgetCalculatorSPA/)
 
 ### 🖥️ [GitHub Profile Viewer SPA](https://github.com/FranklynPedro/GithubProfileViewerSPA)
-A single-page application (SPA) that allows users to view GitHub profiles and repositories by fetching data from the GitHub API. The app features a responsive design, includes a theme toggle for light/dark modes, and presents user data in an organized, visually appealing layout.
+A GitHub profile viewer that fetches data from the GitHub API and displays it with a responsive design and theme toggle.
 - **Technologies**: HTML, CSS, JavaScript, GitHub API
-- **Key Features**: GitHub profile and repository viewing, light/dark mode toggle, responsive design
-- **Demo**: [Live Demo on GitHub Pages](https://franklynpedro.github.io/GithubProfileViewerSPA/)
+- **Key Features**: Profile/repository viewing, light/dark mode, responsive design
+- **Demo**: [Live Demo](https://franklynpedro.github.io/GithubProfileViewerSPA/)
 
 ### 🐾 [Puppy Paradise - Non-Profit Animal Rescue Website](https://github.com/FranklynPedro/ST10118718-WEDE5020-POE)
-A fictional non-profit website dedicated to rescuing, rehabilitating, and rehoming abandoned pets. The site guides users through the adoption process and emphasizes responsible pet care. It includes sections like **About Us**, **Adopt A Pet**, **Gallery**, and **Contact Us**, with a focus on creating a warm, welcoming experience for potential pet adopters.
+A fictional site for a non-profit dedicated to rescuing abandoned pets. Features include adoption information and pet care resources.
+- **Technologies**: HTML, CSS, JavaScript
+- **Key Features**: Adoption process guidance, warm user experience
 
 ### 🐦 [Birdwatching Open-Source App](https://github.com/FranklynPedro/birdwatching)
-An open-source birdwatching app where users can log bird sightings and track locations. This project allowed me to work with **location APIs** and hone my **Java** skills.
+An app for logging bird sightings and locations, using **location APIs** to enhance the user experience.
+- **Technologies**: Java, APIs
+- **Key Features**: Bird sighting logs, location tracking
 
 ### ☕ [Mugged: Personalized Gifts Web App](https://github.com/FranklynPedro/mugged)
-A web application for a customizable gift shop, developed using **ASP.NET MVC** with a focus on UI/UX design using **Uizard**. The color scheme was carefully chosen to create a warm, engaging user experience.
+A customizable gift shop web app, built with **ASP.NET MVC** and a focus on **UI/UX design**.
+- **Technologies**: ASP.NET MVC, HTML, CSS
+- **Key Features**: Customizable gifts, intuitive design
 
 ## 📈 Goals
 
-- 🚀 Build a personal portfolio website to showcase my work.
-- 🤝 Gain experience through internships or collaborative projects.
-- 📖 Continue learning about cloud technologies and microservices.
+- 🚀 Develop a **personal portfolio** website to showcase my work.
+- 🤝 **Internships** or collaborative projects to gain practical experience.
+- 📖 Continue learning about **cloud technologies** and **microservices**.
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/franklyn-pedro-250ba1268/)
-- **GitHub:** [github.com/FranklynPedro](https://github.com/FranklynPedro)
-- **Email:** st10118718@vcconnect.edu.za
+- **LinkedIn**: [Franklyn Pedro LinkedIn](https://www.linkedin.com/in/franklyn-pedro-250ba1268/)
+- **GitHub**: [github.com/FranklynPedro](https://github.com/FranklynPedro)
+- **Email**: st10118718@vcconnect.edu.za
 
-Thanks for visiting! I'm always open to connecting and exploring new opportunities. Let's collaborate or chat about software development, tech, and career growth!
+Thanks for visiting my profile! Feel free to connect or chat about software development, tech, or career opportunities!
