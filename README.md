@@ -1,70 +1,94 @@
-# Hi there! 👋 I'm Franklyn
+<div align="center">
+  <h1>Hi there! 👋 I'm Franklyn H. Pedro</h1>
+  <p>Final-year IT student aspiring to become a professional Web and Software Developer.</p>
+</div>
 
-You have finally discovered my GitHub profile!
+## 🚀 About Me  
 
-## 👨‍💻 About Me
+🎓 I’m currently pursuing a **Diploma in Information Technology in Software Development** at **Varsity College Nelson Mandela Bay**, graduating in December 2024. I am passionate about creating impactful and scalable software solutions, specializing in **front-end development** while having experience in **back-end technologies** and **DevOps workflows**.  
 
-🎓 I'm a **final-year student** pursuing a **Diploma in Information Technology in Software Development**. I'm passionate about creating efficient and scalable software solutions and am actively working to expand my technical skill set. My goal is to kickstart my career as a **software or web developer** and contribute to impactful projects.
+💡 My goal is to kickstart my career as a **Web Developer** or **Software Developer** in a collaborative environment where I can grow, contribute, and create meaningful digital solutions.  
 
-- 💻 **Programming Languages**: I'm skilled in **Java**, **C#**, and have beginner-level experience with **Python**.
-- 🌱 **Front-End Focus**: I specialize in **front-end development** and enjoy creating **user-friendly, visually appealing interfaces**. I work with **HTML**, **CSS**, **JavaScript**, and have experience with **React** to build responsive websites.
-- 🔧 **Back-End Experience**: Although I have experience with **back-end development**, I thrive on the creative aspects of **front-end** work, where design and user experience come to life.
-- 🎯 **Future Aspirations**: My aim is to become a skilled **front-end web developer**, working in a **collaborative environment** where I can continuously learn and contribute to meaningful digital solutions.
-- 📚 **Continuous Learning**: I'm actively expanding my knowledge in **UI/UX design** and **JavaScript frameworks**, focusing on building modern, responsive websites that provide seamless user experiences.
+---
 
-## 🛠 Technical Skills
+## 🛠 Technical Summary  
 
-- **Languages**: Java, C#, Python (beginner)
-- **Front-End**: HTML, CSS, JavaScript, React, responsive design, Bootstrap
-- **Back-End**: ASP.NET MVC, Java Spring Boot (learning)
-- **Mobile Development**: Kotlin (Android)
-- **Version Control**: Git, GitHub
-- **Code Editor**: Visual Studio Code (VS Code)
-- **Database**: SQL, MySQL (basic)
-- **Tools & Technologies**: Git, Visual Studio, Android Studio, Firebase, REST APIs
-- **UI/UX**: Experience in designing intuitive, engaging interfaces with a focus on usability
+<div align="center">
 
-## 🔧 Projects
+| **Category**     | **Technologies & Skills**                                                                            |  
+|-------------------|-----------------------------------------------------------------------------------------------------|  
+| **Languages**     | Java, C#, Kotlin                                                                                    |  
+| **Frontend**      | HTML, CSS, JavaScript, React, Bootstrap                                                             |  
+| **Backend**       | ASP.NET MVC, Java Spring Boot (learning), REST APIs                                                 |  
+| **DevOps**        | Azure DevOps (CI/CD pipelines, Boards), Git, GitHub                                                 |  
+| **Databases**     | SQL, Azure SQL Database                                                                             |  
+| **UI/UX Design**  | Figma (mockups, prototyping), Responsive Design                                                     |  
+| **Methodologies** | Agile, Scrum, CI/CD, UI/UX Design Principles, Code Versioning                                       |  
+| **Tools**         | Visual Studio, VS Code, Android Studio                                                              |  
 
-Here are some projects that highlight my growth as a developer:
+</div>
 
-### 💰 [Budget Calculator - Personal Finance Web App](https://franklynpedro.github.io/BudgetCalculatorSPA/)
-A personal finance tool for managing budgets, with a **light/dark mode toggle** and **pie chart visualizations**.
-- **Technologies**: HTML, CSS, JavaScript, Chart.js
-- **Key Features**: Budget tracking, real-time summary, theme toggle
-- **Demo**: [Live Demo](https://franklynpedro.github.io/BudgetCalculatorSPA/)
+---
 
-### 🖥️ [GitHub Profile Viewer SPA](https://github.com/FranklynPedro/GithubProfileViewerSPA)
-A GitHub profile viewer that fetches data from the GitHub API and displays it with a responsive design and theme toggle.
-- **Technologies**: HTML, CSS, JavaScript, GitHub API
-- **Key Features**: Profile/repository viewing, light/dark mode, responsive design
-- **Demo**: [Live Demo](https://franklynpedro.github.io/GithubProfileViewerSPA/)
+## 🌟 Key Projects  
 
-### 🐾 [Puppy Paradise - Non-Profit Animal Rescue Website](https://github.com/FranklynPedro/ST10118718-WEDE5020-POE)
-A fictional site for a non-profit dedicated to rescuing abandoned pets. Features include adoption information and pet care resources.
-- **Technologies**: HTML, CSS, JavaScript
-- **Key Features**: Adoption process guidance, warm user experience
+### ☕ [MuggedPWA: Personalized Gifts Web App](https://github.com/Code-Craft-Collective-WIL/MuggedPWA).  
+A customizable gift shop web app developed as a **Progressive Web App** for my final-year WIL project.  
+- **Technologies**: ASP.NET MVC, HTML, CSS, Azure SQL, Azure DevOps  
+- **Key Features**: Customizable gift products, secure checkout, CI/CD pipelines, responsive design  
 
-### 🐦 [Birdwatching Open-Source App](https://github.com/FranklynPedro/birdwatching)
-An app for logging bird sightings and locations, using **location APIs** to enhance the user experience.
-- **Technologies**: Java, APIs
-- **Key Features**: Bird sighting logs, location tracking
+### 💰 [Budget Calculator - Personal Finance Web App](https://franklynpedro.github.io/BudgetCalculatorSPA/)  
+A personal finance tool for managing budgets with a light/dark mode toggle and visual charts.  
+- **Technologies**: HTML, CSS, JavaScript, Chart.js  
+- **Key Features**: Budget tracking, real-time summary, theme toggle  
 
-### ☕ [Mugged: Personalized Gifts Web App](https://github.com/FranklynPedro/mugged)
-A customizable gift shop web app, built with **ASP.NET MVC** and a focus on **UI/UX design**.
-- **Technologies**: ASP.NET MVC, HTML, CSS
-- **Key Features**: Customizable gifts, intuitive design
+### 🖥️ [GitHub Profile Viewer SPA](https://github.com/FranklynPedro/GithubProfileViewerSPA)  
+A web app that fetches and displays GitHub profile data using the GitHub API.  
+- **Technologies**: HTML, CSS, JavaScript, GitHub API  
+- **Key Features**: Profile/repository viewing, responsive design, light/dark mode  
 
-## 📈 Goals
+### 🐾 [Puppy Paradise - Non-Profit Animal Rescue Website](https://github.com/FranklynPedro/ST10118718-WEDE5020-POE)  
+A fictional site for a non-profit dedicated to rescuing abandoned pets.  
+- **Technologies**: HTML, CSS, JavaScript  
+- **Key Features**: Adoption process information, pet care resources  
 
-- 🚀 Develop a **personal portfolio** website to showcase my work.
-- 🤝 **Internships** or collaborative projects to gain practical experience.
-- 📖 Continue learning about **cloud technologies** and **microservices**.
+---
 
-## 📫 Connect with Me
+## 🏆 Achievements & Skills Gained  
 
-- **LinkedIn**: [linkedin.com/in/franklyn-pedro-250ba1268/](https://www.linkedin.com/in/franklyn-pedro-250ba1268/)
-- **GitHub**: [github.com/FranklynPedro](https://github.com/FranklynPedro)
-- **Email**: st10118718@vcconnect.edu.za
+### Skills Gained from the Mugged Project  
+- **Agile Project Management**: Used Azure Boards for sprint planning and task tracking.  
+- **UI/UX Design**: Designed intuitive and responsive interfaces with Figma.  
+- **ASP.NET MVC Development**: Built dynamic server-side applications with C#.  
+- **Database Management**: Designed and implemented schemas with Azure SQL.  
+- **DevOps Proficiency**: Implemented CI/CD pipelines using Azure DevOps.  
 
-Thanks for visiting my profile! Feel free to connect or chat about software development, tech, or career opportunities!
+### Other Achievements  
+- Successfully integrated multiple APIs into web and mobile applications.  
+- Designed and developed responsive, user-friendly web interfaces.  
+- Gained proficiency in version control using Git and GitHub workflows.  
+
+---
+
+## 📈 Career Goals  
+
+- 🚀 Develop and launch a **personal portfolio website** to showcase my work.  
+- 🤝 Gain practical experience through **internships** or collaborative projects in web or software development.  
+- 📖 Continue learning about **cloud technologies**, **microservices**, and advanced **JavaScript frameworks**.  
+- 🌟 Aspire to become a **front-end specialist** while growing into full-stack development.  
+
+---
+
+## 📫 Let's Connect!  
+
+Feel free to reach out or connect with me:  
+
+- **LinkedIn**: [linkedin.com/in/franklyn-pedro-250ba1268/](https://www.linkedin.com/in/franklyn-pedro-250ba1268/)  
+- **GitHub**: [github.com/FranklynPedro](https://github.com/FranklynPedro)  
+- **Email**: st10118718@vcconnect.edu.za  
+
+---
+
+<div align="center">
+  <p>Thank you for taking the time to explore my profile! I am eager to contribute to meaningful projects and collaborate with passionate teams. Let’s build something great together! 🌟</p>
+</div>
